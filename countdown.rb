@@ -18,4 +18,3 @@ def countdown(seconds)
   end
   "HAPPY NEW YEAR!"
 end
-end
